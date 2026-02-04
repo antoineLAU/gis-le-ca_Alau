@@ -4,5 +4,5 @@
 pour leancer le projet il suffit d'un live server sur le index.html
 
 ## objetif du projet
-première approche HTMLet CSS DONT/
--
+première approche HTMLet CSS 
+- base html
