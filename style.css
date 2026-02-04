@@ -1,0 +1,41 @@
+html{
+    font-size: 10px;
+}
+@font-face {
+        font-family:"Roboto" ;
+    src: url("./Roboto/static/Roboto-Regular.ttf")format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family:"roboto"; 
+    src: url("./Roboto/static/Roboto-Bold.ttf")format("truetype");
+    font-weight: 700;
+}
+
+body{
+    margin: 40px;
+    font-family: "Roboto";
+    font-size: 1rem;
+    color: #0f0000;
+    background-color: #0985eb;
+}
+
+#nom {
+    font-size: 5rem;
+    color: #010a13;
+    margin-bottom: 24px;
+    font-weight: 700;
+}
+
+.section {
+    background-color: #f7f8f4;
+    padding: 15px 10px 10px 10px;
+    margin: 0 auto 15px;
+    border: 15px dashed red;
+}
+
+.section h2 {
+    margin-top: 15px;
+    margin-bottom: 12px;
+    }
